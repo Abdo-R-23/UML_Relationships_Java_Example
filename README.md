@@ -12,8 +12,8 @@ This project demonstrates the 6 main UML relationships using Java code:
 
 ## 📊 UML Diagram
 
-![UML Diagram](A_UML_(Unified_Modeling_Language)_class_diagram_in.png)
 
+](https://github.com/Abdo-R-23/UML_Relationships_Java_Example/blob/main/Image%20.png)
 ## 🧠 Overview
 Each class in the project represents a different UML relationship.
 Explore the `.java` files to see how each relationship is implemented.
